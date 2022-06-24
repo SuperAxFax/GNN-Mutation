@@ -1,0 +1,4 @@
+训练集所在的位置是train.py中的function中。其中它能够训练模型并保存模型
+将训练好的模型用在独立测试集上的函数是function3,它能够将独立测试集放在训练好的模型上来
+分析函数是否正确的是analyize_test函数
+对我意义重大的网站：https://www.modb.pro/db/45432
